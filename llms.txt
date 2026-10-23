@@ -1,0 +1,12 @@
+# Play Chess with Chessroom
+
+> A single-page chess information website featuring a guide to browser-based chess, common questions, and a link to play Chessroom.
+
+## Website
+
+- [Chessroom GitHub Pages](https://chessroom.github.io/): Information about playing chess online, chess options, and frequently asked questions.
+- [Chessroom](https://chessroom.online/): Main chess game website.
+
+## Notes
+
+This website is a single-page informational resource. The main Chessroom game is available at chessroom.online. Features and game modes should be confirmed on the main website.

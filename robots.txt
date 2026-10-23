@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chessroom.github.io/sitemap.xml
